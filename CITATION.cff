@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SSaN Isfahan Pilot: Spatial Social Agent Network"
+abstract: "An analytical digital twin of Isfahan Municipality District 6. The pilot proves the SSaN architecture using open data, H3 spatial grids, graph neural networks, and gravity-based agent movement."
+authors:
+  - family-names: "Salehi"
+    given-names: "Hamid"
+    orcid: ""
+repository-code: "https://github.com/hamiDgt/ssan-isfahan-pilot"
+url: "https://github.com/hamiDgt/ssan-isfahan-pilot"
+license: "Apache-2.0"
+version: "1.0.0"
+date-released: "2026-10-01"
+keywords:
+  - "digital twin"
+  - "agent-based modeling"
+  - "spatial analysis"
+  - "H3"
+  - "Isfahan"
+  - "graph neural networks"

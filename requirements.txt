@@ -1,0 +1,15 @@
+requests
+pandas
+numpy
+h3
+shapely
+rasterio
+networkx
+osmnx
+neo4j
+sqlalchemy
+psycopg2-binary
+folium
+scikit-learn
+# optional, only for v1 script 07:
+# pykeen

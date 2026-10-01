@@ -1,0 +1,14 @@
+# Ignore all data and generated outputs
+*.parquet
+*.csv
+*.tsv
+*.json
+*.html
+*.tif
+*.zip
+osm/
+worldpop/
+cache/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
