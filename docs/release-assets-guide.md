@@ -6,7 +6,7 @@ The NASA VIIRS sensor file is too large for GitHub.
 You must download the nightlight file manually.
 
 ## Manual Download: NASA VIIRS
-1. Go to the EOG Data portal: https://eogdata.mines.gov/nighttime_light/monthly_notile/v10/
+1. Go to the EOG Data portal: https://eogdata.mines.edu/products/vnl/
 2. Create a free account and log in.
 3. Download the monthly composite for your target date.
 4. Place the `.tif` file in `~/ssan-data/worldpop/`.
